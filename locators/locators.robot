@@ -6,7 +6,7 @@ Library           String
 ${URL}            http://automationpractice.com/index.php
 ${browser}        chrome
 ${signInLink}     //*[@id="header"]/div[2]/div/div/nav/div[1]/a
-${emailField}     //*[@id="email"]
+${emailField}     //*[@id="email2"]
 ${passwordField}    //*[@id="passwd"]
 ${logInButton}    id=SubmitLogin
 ${myAccountUrl}    http://automationpractice.com/index.php?controller=my-account
